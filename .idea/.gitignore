@@ -1,9 +1,3 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-.idea
-.vscode
-/topic_3/methods_cos/kmeans_df.xlsx
-/topic_3/methods_cos/result_similarity.xlsx
-/topic_3/methods_kmeans/kmeans_df.xlsx
-/topic_3/object_classification/kmeans_df.xlsx
